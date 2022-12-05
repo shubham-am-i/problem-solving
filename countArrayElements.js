@@ -1,3 +1,5 @@
+// Write a function to count the number of occurence of elements in an array.
+
 function countElements(arr) {
   let elementMap = {} //use charMap to store element and it's count
 
