@@ -1,0 +1,19 @@
+{
+  "name": "common-interview-problems",
+  "version": "1.0.0",
+  "description": "problem solving in JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -q index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-am-i/problem-solving.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-am-i/problem-solving/issues"
+  },
+  "homepage": "https://github.com/shubham-am-i/problem-solving#readme"
+}
